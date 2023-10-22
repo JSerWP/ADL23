@@ -1,7 +1,3 @@
-pip install -r requirements.txt
-
-https://www.dropbox.com/scl/fo/v12cy5xj9pddg6bup0sgt/h?rlkey=jqk8adw01wgw5aoeyu16mmt8p&dl=0
-
 # ADL23-HW1
 ## Process
 ### Environment configuration
